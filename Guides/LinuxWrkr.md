@@ -4,7 +4,7 @@ In this guide you will learn how to install GitLab Runner on a Ubuntu machine.
 
 First you need to acquire a registration token and the url.
 
-![overview](/Pics/runnerreg.png)
+![overview](/Pics/runnerreg.PNG)
 
 You should visit the official [site](https://gitlab-runner-downloads.s3.amazonaws.com/latest/index.html) to download the appropriate runner for your instance.
 

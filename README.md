@@ -10,3 +10,6 @@ The following guides help you through the course.
 
 * [Environment](/Guides/Env.md)
 * [Master](/Guides/Master.md)
+* [Linux Worker](/Guides/LinuxWrkr.md)
+* [MacOS Worker](/Guides/MacWrkr.md)
+* [Windows Worker](/Guides/WinWrkr.md)
