@@ -8,3 +8,5 @@ The following machines:
 - Ubuntu LTS 20.04(Linux Worker)
 - 2019A (Windows Worker)
 - Catalina (MacOS Worker)
+- Fedora 32(Linux Client)
+- 2019B (Windows Client)
