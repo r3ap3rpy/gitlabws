@@ -1,0 +1,24 @@
+concurrent = 1
+check_interval = 0
+
+[session_server]
+  session_timeout = 1800
+
+
+[[runners]]
+  name = "macos-custom"
+  url = "http://centos"
+  token = "UX5F868u2WFiMyz6x7Jz"
+  executor = "custom"
+  builds_dir = "/Users/r3ap3rpy/.gitlab-runner/builds"
+  cache_dir = "/Users/r3ap3rpy/.gitlab-runner/cache"  
+  [runners.custom_build_dir]
+  [runners.cache]
+    [runners.cache.s3]
+    [runners.cache.gcs]
+    [runners.cache.azure]
+  [runners.custom]
+    config_exec = "/Users/r3ap3rpy/config_exec.sh"
+    prepare_exec = "/Users/r3ap3rpy/prepare_exec.sh"
+    run_exec = "/Users/r3ap3rpy/run_exec.sh"
+    cleanup_exec = "/Users/r3ap3rpy/cleanup_exec.sh"
