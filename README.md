@@ -15,3 +15,4 @@ The following guides help you through the course.
 * [Windows Worker](/Guides/WinWrkr.md)
 * [Py Web App](/Guides/PyWebapp.md)
 * [Pshell Pipe](/Guides/PShellPipe.md)
+* [MacOS Custom](/Guides/MacCust.md)
