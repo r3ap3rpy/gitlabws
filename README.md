@@ -14,3 +14,4 @@ The following guides help you through the course.
 * [MacOS Worker](/Guides/MacWrkr.md)
 * [Windows Worker](/Guides/WinWrkr.md)
 * [Py Web App](/Guides/PyWebapp.md)
+* [Pshell Pipe](/Guides/PShellPipe.md)
