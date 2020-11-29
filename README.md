@@ -16,3 +16,5 @@ The following guides help you through the course.
 * [Py Web App](/Guides/PyWebapp.md)
 * [Pshell Pipe](/Guides/PShellPipe.md)
 * [MacOS Custom](/Guides/MacCust.md)
+
+You can find the course on [udemy](https://www.udemy.com/course/gitlab-up-and-running).
